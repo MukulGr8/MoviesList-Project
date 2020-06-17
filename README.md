@@ -1,4 +1,4 @@
-# newProject3
+# Movies List App Using Bloc Pattern
 
 A new Flutter project.
 
